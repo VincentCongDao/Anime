@@ -1,0 +1,10 @@
+.anime-title{
+    text-align: center;
+}
+.anime-card{
+    width: min-content;
+    margin: 15px 15px;
+}
+.anime-card a{
+    text-decoration: none;
+}

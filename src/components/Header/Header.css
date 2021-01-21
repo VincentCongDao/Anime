@@ -1,0 +1,15 @@
+.Header{
+    background: hsla(0, 0%, 76%, 0.335);
+    box-shadow:  6px 6px 36px #cacaca,
+                -6px -6px 36px #f6f6f6;
+    user-select: none;
+}
+.Header-logo{
+    padding: 10px;
+    margin: 0 3em;
+    font-size: 20px;
+    color:black;
+}
+.Header-logo span{
+    color: hsla(240, 93%, 58%, 0.541);
+}
