@@ -1,3 +1,4 @@
 - This website is for searching for anime that is relate to user's search.
+- In this site is using [Kitsu API](https://kitsu.docs.apiary.io/#) in order to search for anime list
 - [X] A grid CSS when results show
 - Website link: [Anime](https://frosty-snyder-205118.netlify.app)
