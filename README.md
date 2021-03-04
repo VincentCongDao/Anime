@@ -1,2 +1,3 @@
-[] Getting the anime list view
-[] Need to add navigation
+- This website is for searching for anime that is relate to user's search.
+- [X] A grid CSS when results show
+- Website link: [Anime](https://frosty-snyder-205118.netlify.app)
