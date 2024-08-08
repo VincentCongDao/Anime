@@ -1,8 +1,44 @@
-*{
-    margin: 0;
-    padding: 0;
+* {
+	padding: 0;
+	margin: 0;
 }
-.content-wrapper{
-    display: flex;
-    margin: 5em 2em;
+/* 
+Color: #9d40c4
+*/
+/* Navigation bar */
+
+.nav-wrapper {
+	height: 3rem;
+	background-color: #ffe9f4;
+	display: flex;
+	justify-content: space-between;
+	padding-left: 2rem;
+	padding-right: 2rem;
+	align-items: center;
+	position: relative;
+}
+.logo {
+	display: flex;
+	flex: 1;
+}
+.search-input {
+	display: flex;
+	flex: 8;
+}
+.search-input > input {
+	padding-left: 0.5rem;
+	padding-top: 0.5rem;
+	padding-bottom: 0.5rem;
+	border: 1px solid #e0cfd7;
+	border-radius: 0.5rem;
+	width: 960px;
+}
+.search-input > input:focus {
+	border: none;
+}
+
+/* Template For Section */
+.section-wrapper {
+	padding-left: 2rem;
+	padding-right: 2rem;
 }
